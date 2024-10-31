@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Avalonia" Version="11.2.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="ThemeSwitch.axaml.cs">
+        <DependentUpon>ThemeSwitch.axaml</DependentUpon>
+        <SubType>Code</SubType>
+      </Compile>
+    </ItemGroup>
+
+    <ItemGroup>
+      <UpToDateCheckInput Remove="Components\Cloud.axaml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Assets\cloud.png" />
+      <AvaloniaResource Include="Assets\cloud.png" />
+      <None Remove="Assets\stars.png" />
+      <AvaloniaResource Include="Assets\stars.png" />
+    </ItemGroup>
+
+</Project>

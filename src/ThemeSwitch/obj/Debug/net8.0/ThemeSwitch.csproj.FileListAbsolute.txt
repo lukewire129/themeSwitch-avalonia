@@ -1,0 +1,14 @@
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\bin\Debug\net8.0\ThemeSwitch.deps.json
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\bin\Debug\net8.0\ThemeSwitch.dll
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\bin\Debug\net8.0\ThemeSwitch.pdb
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\obj\Debug\net8.0\ThemeSwitch.csproj.AssemblyReference.cache
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\obj\Debug\net8.0\Avalonia\resources
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\obj\Debug\net8.0\ThemeSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\obj\Debug\net8.0\ThemeSwitch.AssemblyInfoInputs.cache
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\obj\Debug\net8.0\ThemeSwitch.AssemblyInfo.cs
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\obj\Debug\net8.0\ThemeSwitch.csproj.CoreCompileInputs.cache
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\obj\Debug\net8.0\ref\ThemeSwitch.dll
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\obj\Debug\net8.0\Avalonia\ThemeSwitch.dll
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\obj\Debug\net8.0\Avalonia\ThemeSwitch.pdb
+C:\Users\dm\RiderProjects\ThemeSwitch\ThemeSwitch\obj\Debug\net8.0\refint\Avalonia\ThemeSwitch.dll

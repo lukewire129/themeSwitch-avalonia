@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="DemoApp/DemoApp/Views/MainView.axaml" value="DemoApp/DemoApp.Browser/DemoApp.Browser.csproj" />
+        <entry key="ThemeSwitch/Components/Cloud.axaml" value="DemoApp/DemoApp.Desktop/DemoApp.Desktop.csproj" />
+        <entry key="ThemeSwitch/Components/Sun.axaml" value="DemoApp/DemoApp.Browser/DemoApp.Browser.csproj" />
+        <entry key="ThemeSwitch/Components/ThemeSwitch.axaml" value="DemoApp/DemoApp.Browser/DemoApp.Browser.csproj" />
+        <entry key="ThemeSwitch/ThemeSwitch.axaml" value="DemoApp/DemoApp.Desktop/DemoApp.Desktop.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

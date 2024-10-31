@@ -1,0 +1,131 @@
+<Styles
+    xmlns="https://github.com/avaloniaui"
+    xmlns:controls="using:ThemeSwitch"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Design.PreviewWith>
+        <Grid Height="400" Width="800">
+            <controls:ThemeSwitch />
+        </Grid>
+    </Design.PreviewWith>
+    <Style Selector="Border.BaseColor">
+        <Setter Property="Background" Value="#8cbcfa" />
+        <Setter Property="CornerRadius" Value="25" />
+        <Setter Property="Transitions">
+            <Transitions>
+                <BrushTransition Duration="0:0:0.5" Property="Background" />
+            </Transitions>
+        </Setter>
+    </Style>
+
+    <Style Selector="Ellipse.Circle">
+        <Setter Property="Width" Value="40" />
+        <Setter Property="Height" Value="40" />
+        <Setter Property="Margin" Value="8,0,0,0" />
+        <Setter Property="HorizontalAlignment" Value="Left" />
+        <Setter Property="Fill" Value="#ffb15f" />
+        <Setter Property="Transitions">
+            <Transitions>
+                <ThicknessTransition Duration="0:0:0.5" Property="Margin" />
+                <BrushTransition Duration="0:0:0.5" Property="Fill" />
+            </Transitions>
+        </Setter>
+    </Style>
+
+    <Style Selector="Image.Cloud">
+        <Setter Property="Source" Value="avares://ThemeSwitch/Assets/cloud.png" />
+        <Setter Property="Width" Value="72" />
+        <Setter Property="Height" Value="47" />
+        <Setter Property="Stretch" Value="None" />
+        <Setter Property="Transitions">
+            <Transitions>
+                <DoubleTransition Duration="0:0:0.5" Property="Opacity" />
+                <ThicknessTransition Duration="0:0:0.5" Property="Margin" />
+            </Transitions>
+        </Setter>
+    </Style>
+    <Style Selector="Image.Cloud1">
+        <Setter Property="Opacity" Value="0.5" />
+        <Setter Property="Margin" Value="53,12,0,0" />
+    </Style>
+    <Style Selector="Image.Cloud2">
+        <Setter Property="Opacity" Value="1" />
+        <Setter Property="Margin" Value="45,26,0,0" />
+    </Style>
+    <Style Selector="Image.Cloud3">
+        <Setter Property="Opacity" Value="1" />
+        <Setter Property="Margin" Value="-10,34,0,0" />
+    </Style>
+    <Style Selector="Image.Cloud4">
+        <Setter Property="Opacity" Value="0.5" />
+        <Setter Property="Margin" Value="-9,27,0,0" />
+    </Style>
+    <Style Selector="Image.Star">
+        <Setter Property="Source" Value="avares://ThemeSwitch/Assets/stars.png" />
+        <Setter Property="Width" Value="72" />
+        <Setter Property="Height" Value="47" />
+        <Setter Property="Opacity" Value="0" />
+        <Setter Property="Stretch" Value="None" />
+        <Setter Property="Margin" Value="0,-50,0,0" />
+        <Setter Property="Transitions">
+            <Transitions>
+                <DoubleTransition Duration="0:0:0.5" Property="Opacity" />
+                <ThicknessTransition Duration="0:0:0.5" Property="Margin" />
+            </Transitions>
+        </Setter>
+    </Style>
+
+    <Style Selector="controls|ThemeSwitch">
+        <Setter Property="Cursor" Value="Hand" />
+        <!--  Set Defaults  -->
+        <Setter Property="Template">
+            <ControlTemplate>
+                <Grid Height="50" Width="130">
+                    <Grid.Clip>
+                        <RectangleGeometry Rect="0,0,130,50">
+                            <RectangleGeometry.RadiusX>25</RectangleGeometry.RadiusX>
+                            <RectangleGeometry.RadiusY>25</RectangleGeometry.RadiusY>
+                        </RectangleGeometry>
+                    </Grid.Clip>
+                    <Border Classes="BaseColor" x:Name="border" />
+                    <Image Classes="Star" x:Name="galaxy" />
+                    <Image Classes="Cloud Cloud1" x:Name="cloud1" />
+                    <Image Classes="Cloud Cloud2" x:Name="cloud2" />
+                    <Image Classes="Cloud Cloud3" x:Name="cloud3" />
+                    <Image Classes="Cloud Cloud4" x:Name="cloud4" />
+                    <Ellipse Classes="Circle" x:Name="circle" />
+                </Grid>
+            </ControlTemplate>
+        </Setter>
+
+        <Style Selector="^:checked">
+            <Style Selector="^ /template/ Image#cloud1">
+                <Setter Property="Opacity" Value="0" />
+                <Setter Property="Margin" Value="183,-58,0,-50" />
+            </Style>
+            <Style Selector="^ /template/ Image#cloud2">
+                <Setter Property="Opacity" Value="0" />
+                <Setter Property="Margin" Value="175,-24,0,-50" />
+            </Style>
+            <Style Selector="^ /template/ Image#cloud3">
+                <Setter Property="Opacity" Value="0" />
+                <Setter Property="Margin" Value="-140,0,0,0" />
+            </Style>
+            <Style Selector="^ /template/ Image#cloud4">
+                <Setter Property="Opacity" Value="0" />
+                <Setter Property="Margin" Value="-139,-33,0,-50" />
+            </Style>
+
+            <Style Selector="^ /template/ Border#border">
+                <Setter Property="Background" Value="#191c25" />
+            </Style>
+            <Style Selector="^ /template/ Image#galaxy">
+                <Setter Property="Opacity" Value="1" />
+                <Setter Property="Margin" Value="0" />
+            </Style>
+            <Style Selector="^ /template/ Ellipse#circle">
+                <Setter Property="Fill" Value="#e6b91b" />
+                <Setter Property="Margin" Value="82,0,0,0" />
+            </Style>
+        </Style>
+    </Style>
+</Styles>
