@@ -1,0 +1,15 @@
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\bin\Release\net8.0\ThemeSwitch.deps.json
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\bin\Release\net8.0\ThemeSwitch.dll
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\bin\Release\net8.0\ThemeSwitch.pdb
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\obj\Release\net8.0\ThemeSwitch.csproj.AssemblyReference.cache
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\obj\Release\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\obj\Release\net8.0\Avalonia\resources
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\obj\Release\net8.0\ThemeSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\obj\Release\net8.0\ThemeSwitch.AssemblyInfoInputs.cache
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\obj\Release\net8.0\ThemeSwitch.AssemblyInfo.cs
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\obj\Release\net8.0\ThemeSwitch.csproj.CoreCompileInputs.cache
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\obj\Release\net8.0\ThemeSwitch.sourcelink.json
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\obj\Release\net8.0\Avalonia\ThemeSwitch.dll
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\obj\Release\net8.0\Avalonia\ThemeSwitch.pdb
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\obj\Release\net8.0\refint\Avalonia\ThemeSwitch.dll
+C:\Users\dm\source\repos\_personal\_blog\lukewireBlogAvalonia\libs\repo\themeswitch\src\ThemeSwitch\obj\Release\net8.0\ref\ThemeSwitch.dll

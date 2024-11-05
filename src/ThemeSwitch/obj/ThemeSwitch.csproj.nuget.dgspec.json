@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dm\\RiderProjects\\ThemeSwitch\\ThemeSwitch\\ThemeSwitch.csproj": {}
+    "C:\\Users\\dm\\source\\repos\\_personal\\_blog\\lukewireBlogAvalonia\\libs\\repo\\themeswitch\\src\\ThemeSwitch\\ThemeSwitch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dm\\RiderProjects\\ThemeSwitch\\ThemeSwitch\\ThemeSwitch.csproj": {
+    "C:\\Users\\dm\\source\\repos\\_personal\\_blog\\lukewireBlogAvalonia\\libs\\repo\\themeswitch\\src\\ThemeSwitch\\ThemeSwitch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dm\\RiderProjects\\ThemeSwitch\\ThemeSwitch\\ThemeSwitch.csproj",
+        "projectUniqueName": "C:\\Users\\dm\\source\\repos\\_personal\\_blog\\lukewireBlogAvalonia\\libs\\repo\\themeswitch\\src\\ThemeSwitch\\ThemeSwitch.csproj",
         "projectName": "ThemeSwitch",
-        "projectPath": "C:\\Users\\dm\\RiderProjects\\ThemeSwitch\\ThemeSwitch\\ThemeSwitch.csproj",
+        "projectPath": "C:\\Users\\dm\\source\\repos\\_personal\\_blog\\lukewireBlogAvalonia\\libs\\repo\\themeswitch\\src\\ThemeSwitch\\ThemeSwitch.csproj",
         "packagesPath": "C:\\Users\\dm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dm\\RiderProjects\\ThemeSwitch\\ThemeSwitch\\obj\\",
+        "outputPath": "C:\\Users\\dm\\source\\repos\\_personal\\_blog\\lukewireBlogAvalonia\\libs\\repo\\themeswitch\\src\\ThemeSwitch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
